@@ -1,0 +1,15 @@
+{
+  "categories" [
+    {
+      "id": 0,
+      "name": "Anime"
+      }
+   ],
+   "channels": [
+   {
+   "cid": 1,
+   "name": "Aniplus",
+   "stream_url": "http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8"
+   }
+   ]
+   }
